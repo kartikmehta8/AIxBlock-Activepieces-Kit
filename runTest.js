@@ -23,5 +23,9 @@ exec("npm test --json --outputFile=test-results.json", async (error, stdout, std
     // console.log(JSON.stringify(payload, null, 2));
 
     // Send results to ActivePieces Webhook.
-    await axios.post(WEBHOOK_URL, payload);
+    try {
+        await axios.post(WEBHOOK_URL, payload);
+    } catch (e) {
+        // Can be done any other action to send data to AI Agent if this fails.
+    }
 });
