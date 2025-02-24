@@ -22,4 +22,4 @@ jobs:
         run: npm install
 
       - name: Run Test Script
-        run: node runScript.js
+        run: node runTest.js
