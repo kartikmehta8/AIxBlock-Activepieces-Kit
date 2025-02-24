@@ -1,0 +1,16 @@
+{
+  "name": "aixblock-ai-agent",
+  "version": "1.0.0",
+  "main": "mathUtils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "kartikmehta8",
+  "license": "MIT",
+  "description": "aixblock-ai-agent",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "jest": "^29.7.0"
+  }
+}
