@@ -25,7 +25,9 @@ Whenever a test **fails in GitHub Actions**, logs are automatically **sent to Ac
 **Website**: [https://aixblock.io/](https://aixblock.io/)  
 
 ## Project Demo 
-Watch the full video walkthrough here: [YouTube Video](https://www.youtube.com/watch?v=mZJsOskpElo) 
+Watch the full video walkthrough here: [YouTube Video](https://www.youtube.com/watch?v=mZJsOskpElo)
+
+Read the full blog here: [Blog Link](https://writer.mrmehta.in/redefining-devops-with-aixblock-and-activepieces)
 
 ## Contact & Follow
 🐦 Twitter: [Link](https://x.com/kartik_mehta8)  
